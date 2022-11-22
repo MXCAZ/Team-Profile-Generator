@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MXCAZ/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MXCAZ/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/MXCAZ/Team-Profile-Generator#readme",
+  "dependencies": {
+    "i": "^0.3.7",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
