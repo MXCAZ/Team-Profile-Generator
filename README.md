@@ -23,4 +23,4 @@ Open the integrated terminal on vs code run the command _npm test_. Then run the
 # Websites
 
 - https://github.com/MXCAZ
-- Video walk-thorough: https://drive.google.com/file/d/1O7wKa0WlwxV6e4bjiP0Dr1Al7CrJDORD/view
+- Video Walk-through: https://drive.google.com/file/d/1O7wKa0WlwxV6e4bjiP0Dr1Al7CrJDORD/view
